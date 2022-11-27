@@ -6,6 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# tools versions local (ex. asdf)
+.tool-versions
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -139,3 +142,5 @@ terraform.rc
 
 
 yarn.*
+package-lock.json
+
